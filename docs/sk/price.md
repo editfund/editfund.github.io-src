@@ -9,7 +9,9 @@ sidebar_position: 3
 
 您也可以通过闲鱼购买。
 
-![](./img/xianyu.webp)
+[https://edit.fund/buy/index.html](https://edit.fund/buy/index.html)
+
+
 
 ### 定制
 
