@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="logo2-A.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="logo2-A.webp"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <rect
+       x="249.49495"
+       y="271.71717"
+       width="167.67677"
+       height="244.44444"
+       id="rect292" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.99"
+     inkscape:cx="114.14141"
+     inkscape:cy="319.19192"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text290" />
+  <g
+     fill="#000000"
+     id="g8">
+    <path
+       d="M8.088 12.098l3.185-1.81a.178.178 0 01.176 0l2.843 1.615a.172.172 0 010 .3l-6.204 3.524a.178.178 0 01-.176 0L1.088 11.85A.173.173 0 011 11.7V3.947c0-.061.033-.118.088-.15L7.292.274a.176.176 0 01.264.15v3.23a.172.172 0 01-.088.15l-3.186 1.81a.173.173 0 00-.088.149v4.124c0 .062.034.119.088.15l3.63 2.062c.054.03.122.03.176 0z"
+       id="path2"
+       style="fill:#aa0000" />
+    <path
+       d="M8.532 3.803l3.186 1.81a.173.173 0 01.088.149v3.62c0 .06.033.118.088.149l2.842 1.615a.176.176 0 00.264-.15V3.947a.173.173 0 00-.088-.15L8.708.274a.176.176 0 00-.264.15v3.23c0 .062.034.119.088.15z"
+       id="path4"
+       style="fill:#ff0000" />
+    <g
+       aria-label="A"
+       transform="scale(0.02)"
+       id="text290"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect292);fill:#00ff00">
+      <path
+         d="m 514,484.14649 h -49.9089 l -19.83958,-51.61386 h -90.82801 l -18.75459,51.61386 H 286 l 88.50307,-227.22502 h 48.51394 z m -84.47316,-89.89803 -31.30931,-84.31815 -30.68931,84.31815 z"
+         style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#00ff00;stroke-width:1.65331"
+         id="path398" />
+    </g>
+  </g>
+</svg>
