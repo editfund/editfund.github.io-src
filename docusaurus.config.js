@@ -113,8 +113,8 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/editfund/docusaurus',
-            label: 'GitHub',
+            href: '/buy/index.html',
+            label: '购买',
             position: 'right',
           },
         ],
@@ -165,7 +165,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/editfund/',
               },
             ],
           },
