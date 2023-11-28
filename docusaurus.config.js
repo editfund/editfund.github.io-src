@@ -113,7 +113,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: '/buy/index.html',
+            href: 'https://edit.fund/buy/index.html',
             label: '购买',
             position: 'right',
           },
