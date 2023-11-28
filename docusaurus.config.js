@@ -127,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'AI(云服务)',
-                to: '/docs/cy/intro',
+                to: '/docs/ai/把CSV转化为drawio表格/',
               },
               {
                 label: 'CY(图)',
