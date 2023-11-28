@@ -1,6 +1,6 @@
 {
-  "label": "产品 - AI(AI服务)",
-  "position": 2,
+  "label": "产品 - AI(云服务)",
+  "position": 1,
   "link": {
     "type": "generated-index",
     "description": "用AI帮您做些事情"
