@@ -126,6 +126,10 @@ const config = {
             title: '产品',
             items: [
               {
+                label: 'AI(云服务)',
+                to: '/docs/cy/intro',
+              },
+              {
                 label: 'CY(图)',
                 to: '/docs/cy/intro',
               },
@@ -179,11 +183,7 @@ const config = {
               {
                 label: 'Page',
                 to: '/helloReact',
-              },
-              {
-                label: 'CY-demo',
-                href: 'https://edit.fund/html-cy/breadthfirst/index.html',
-              },
+              }
             ],
           },
         ],
