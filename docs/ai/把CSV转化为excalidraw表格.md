@@ -2,8 +2,7 @@
 sidebar_position: 2
 ---
 
-# 简介
-把CSV转化为excalidraw表格
+# 把CSV转化为excalidraw表格
 
 ## 集成excalidraw展示
 - 可以点击，进入编辑模式。编辑后，可以下载。
