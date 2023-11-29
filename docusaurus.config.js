@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Edit.Fund',
-  tagline: '编辑',
+  tagline: '编辑、基金、财经文档、预言、投资组合、投资策略',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
