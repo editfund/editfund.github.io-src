@@ -11,14 +11,7 @@ sidebar_position: 1
 
 ### 示意图
 
-```mermaid
-flowchart  LR
-    A[手机] --> B[手写汉字]
-    A[手机] --> C[语音输入汉字]
-    B[手写汉字] --> WK[WK]
-    C[语音输入汉字] --> WK(WK);
-    WK -->|自动转发到电脑| D[电脑]
-```
+![](./excalidraw-files/WK-show.excalidraw.svg)
 
 ![](./img/expo1.webp)
 

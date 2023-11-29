@@ -9,4 +9,4 @@ sidebar_position: 5
 微信号：editfund（通过微信或闲鱼联系，可以免费试用7天）
 
 ### 闲鱼购买
-![](./img/xianyu.webp)
+[https://edit.fund/buy/index.html](https://edit.fund/buy/index.html)
