@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="68.96 55.62 1742.12 450.43"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="zulip-org-logo-draw.svg"
+   width="1742.12"
+   height="450.42999"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="C:\Users\i\Documents\GitHub\drawfund.github.io\docs\_images\misc\zulip-org-logo-draw.png"
+   inkscape:export-xdpi="16.601299"
+   inkscape:export-ydpi="16.601299"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.88799853"
+     inkscape:cx="648.64972"
+     inkscape:cy="225.2256"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <linearGradient
+     id="a"
+     x1="0"
+     y1="0"
+     x2="0"
+     y2="1">
+    <stop
+       offset="0"
+       stop-color="#50adff"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#7877fc"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     x1="0"
+     y1="-1"
+     x2="0"
+     y2="2">
+    <stop
+       offset="0"
+       stop-color="#50adff"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#7877fc"
+       id="stop9" />
+  </linearGradient>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:384.859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1"
+     x="622.59149"
+     y="417.77191"
+     id="text2920"><tspan
+       sodipodi:role="line"
+       id="tspan2918"
+       x="622.59149"
+       y="417.77191"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:384.859px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:1;fill:#800080">Draw</tspan></text>
+  <g
+     id="g105"
+     transform="matrix(0.8797435,0,0,0.8797435,67.8612,55.62022)"
+     style="stroke-width:1.1367">
+    <rect
+       x="306.57001"
+       y="354.953"
+       transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,906.4882,377.2645)"
+       style="fill:#ad4826;stroke-width:1.1367"
+       width="137.08"
+       height="42.838001"
+       id="rect2" />
+    <rect
+       x="336.84601"
+       y="385.26901"
+       transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,979.609,407.6083)"
+       style="fill:#e66032;stroke-width:1.1367"
+       width="137.08"
+       height="42.838001"
+       id="rect4" />
+    <path
+       style="fill:#fadfd6;stroke-width:1.1367"
+       d="m 469.014,373.338 -96.925,96.934 31.692,31.692 c 13.383,13.383 35.084,13.383 48.467,0 l 48.467,-48.467 c 13.383,-13.383 13.383,-35.084 0,-48.467 z"
+       id="path6" />
+    <polygon
+       style="fill:#e66032;stroke-width:1.1367"
+       points="160.049,64.373 111.711,112.703 361.602,359.595 408.433,312.756 "
+       id="polygon8" />
+    <polygon
+       style="fill:#eb805b;stroke-width:1.1367"
+       points="63.115,161.298 311.499,409.69 361.602,359.595 111.711,112.703 "
+       id="polygon10" />
+    <polygon
+       style="fill:#ad4826;stroke-width:1.1367"
+       points="41.114,98.489 96.692,42.911 1.249,3.371 "
+       id="polygon12" />
+    <polygon
+       style="fill:#fadfd6;stroke-width:1.1367"
+       points="41.114,98.489 63.115,161.298 160.049,64.364 96.692,42.911 "
+       id="polygon14" />
+    <path
+       style="fill:#f5b945;stroke-width:1.1367"
+       d="M 62.773,495.803 14.306,447.336 c -13.383,-13.383 -13.383,-35.084 0,-48.467 L 403.146,10.037 c 13.383,-13.383 35.084,-13.383 48.467,0 l 48.467,48.467 c 13.383,13.383 13.383,35.084 0,48.467 L 111.24,495.803 c -13.383,13.383 -35.085,13.383 -48.467,0 z"
+       id="path16" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.1367"
+       cx="414.01401"
+       cy="97.764"
+       id="ellipse18"
+       r="18.849001" />
+    <g
+       id="g36"
+       style="stroke-width:1.1367">
+      <rect
+         x="328.78101"
+         y="86.456001"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,655.1948,-47.0812)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="51.396999"
+         id="rect20" />
+      <rect
+         x="298.49899"
+         y="120.289"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,633.4859,46.7197)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="68.540001"
+         id="rect22" />
+      <rect
+         x="256.09399"
+         y="159.15401"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,582.5163,128.4188)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="51.396999"
+         id="rect24" />
+      <rect
+         x="225.80299"
+         y="192.993"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,560.7952,222.2369)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="68.540001"
+         id="rect26" />
+      <rect
+         x="183.386"
+         y="231.842"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,509.7938,303.9177)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="51.396999"
+         id="rect28" />
+      <rect
+         x="153.101"
+         y="265.67801"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,488.0814,397.7273)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="68.540001"
+         id="rect30" />
+      <rect
+         x="110.725"
+         y="304.54401"
+         transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,437.1617,479.4056)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="51.396999"
+         id="rect32" />
+      <rect
+         x="80.403"
+         y="338.405"
+         transform="matrix(-0.7072,0.707,-0.707,-0.7072,415.3755,573.3308)"
+         style="fill:#e66032;stroke-width:1.1367"
+         width="17.135"
+         height="68.540001"
+         id="rect34" />
+    </g>
+  </g>
+</svg>
