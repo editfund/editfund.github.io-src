@@ -28,6 +28,7 @@ sidebar_position: 1
 - 集成excalidraw
 - 定制EF的配套工具SK(Edit.Fund出品)
 - 定制EF的配套工具WK(Edit.Fund出品)
+- 定制EF的配套工具AI(Edit.Fund出品)，Actions服务，自动把CSV文件转化为drawio或excalidraw。
 
 ### 成功案例
 
