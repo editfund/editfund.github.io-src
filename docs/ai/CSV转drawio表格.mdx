@@ -6,13 +6,12 @@ import Drawio from '@theme/Drawio'
 import simpleGraph from '!!raw-loader!./drawio-files/GXZQ-F10.drawio';
 
 # CSV转drawio表格
-帮您生成源代码与图形。
-
-### 第一个应用：把CSV转化为drawio表格
-
+### 第1步，准备CSV
+有专门的浏览器扩展应用CRX，可以把网页表格（比如某球的 `十大股东名录` 与 `财务报表` ，保存为CSV。
 ![](./img/x2csv/x2csv.webp)
 
+### 第2步：把CSV转化为drawio表格
 ![](./img/x2drawio/sample.webp)
 
-## 有参数的示范
+### 有drawio参数的示范
 <Drawio content={simpleGraph} page={1} zoom={1} editable={true} edit={true} />
