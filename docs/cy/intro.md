@@ -14,6 +14,8 @@ sidebar_position: 1
 
 [食物链](https://edit.fund/html-cy/breadthfirst/index.html)
 
+[气泡集](https://edit.fund/html-cy/cytoscape-bubblesets/index.html)
+
 ### 用途
 
 - 知识管理系统、笔记系统
