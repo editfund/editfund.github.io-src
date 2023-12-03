@@ -186,7 +186,7 @@ const config = {
               },
               {
                 label: 'Page',
-                to: '/helloReact',
+                to: '/video',
               }
             ],
           },
