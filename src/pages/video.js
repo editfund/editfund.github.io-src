@@ -9,12 +9,7 @@ export default function Video() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
         }}>
-        <p>
-          快手
-        </p>
         <img src="/img/kuaishou.webp" alt="" />
       </div>
     </Layout>

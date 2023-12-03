@@ -180,12 +180,8 @@ const config = {
                 label: '博客',
                 to: '/blog',
               },
-               {
-                label: '视频',
-                to: 'https://edit.fund/qr-video/index.html',
-              },
               {
-                label: 'Page',
+                label: '视频',
                 to: '/video',
               }
             ],
