@@ -15,14 +15,11 @@ Use the power of React to create interactive blog posts.
 <button onClick={() => alert('button clicked!')}>Click me!</button>
 ```
 
-<button id="id" onClick={() => alert('button clicked!按钮')}>Click me!</button>
+<button id="id" onClick={() => {
+alert('button clicked!按钮');
+let str1 = "测试"
+alert(str1)
+}
+}>Click me!</button>
 
 :::
-
-<script>
-  document.querySelector("#id").addEventListener("click", () => {
-    let str1 = "测试"
-    alert(str1)
-  });
-
-</script>
