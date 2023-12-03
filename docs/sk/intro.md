@@ -11,10 +11,10 @@ sidebar_position: 1
 - 本程序的按键可以鼠标单击，如果是触摸屏，也支持手指
 
 ### md.sk设计草图
-[![UI.md.sk](./excalidraw-files/UI.md.sk.excalidraw.svg)](https://excalidraw.com/#json=6h6gPEGFIZIE5MUP41C3D,DEHsCtGpoEXSuFiarERw-Q)
+[![md.sk](./excalidraw-files/md.sk.excalidraw.svg)](https://excalidraw.com/#json=6h6gPEGFIZIE5MUP41C3D,DEHsCtGpoEXSuFiarERw-Q)
 
 ### emoji.sk设计草图
-[![UI.emoji.sk](./excalidraw-files/UI.emoji.sk.excalidraw.svg)](https://excalidraw.com/#json=VlQZHGOqcy8-_aVmzjLXC,Zeg0jPy_YqGQjd7ue2voFg)
+[![emoji.sk](./excalidraw-files/emoji.sk.excalidraw.svg)](https://excalidraw.com/#json=VlQZHGOqcy8-_aVmzjLXC,Zeg0jPy_YqGQjd7ue2voFg)
 
 ### 评语
 
