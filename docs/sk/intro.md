@@ -16,6 +16,9 @@ sidebar_position: 1
 ### emoji.sk设计草图
 [![emoji.sk](./excalidraw-files/emoji.sk.excalidraw.svg)](https://excalidraw.com/#json=VlQZHGOqcy8-_aVmzjLXC,Zeg0jPy_YqGQjd7ue2voFg)
 
+### excalidraw.sk设计草图
+[![emoji.sk](./excalidraw-files/excalidraw.sk.excalidraw.svg)](https://excalidraw.com/#json=P0DWonck0X5yDfqu0iZ2Z,HZjgDee0yr1ax0oL-F2T1g)
+
 ### 评语
 
 1. 用户可以自由调整按键位置。独一无二，市场上没有同类产品。
