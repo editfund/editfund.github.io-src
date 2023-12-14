@@ -13,8 +13,6 @@ sidebar_position: 1
 
 ![](./excalidraw-files/WK-show.excalidraw.svg)
 
-![](./img/expo1.webp)
-
 ### 评语
 
 :::tip
