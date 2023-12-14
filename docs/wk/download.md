@@ -4,4 +4,4 @@ sidebar_position: 2
 
 # 下载
 
-[WK-2023.5.12.7z](https://codeberg.org/attachments/4a66706b-3578-4c47-8855-ad5375dda267)
+[WK-2023.12.14-win64.7z](https://codeberg.org/editfund/WK/releases/download/2023.12.14/WK-2023.12.14-win64.7z)
