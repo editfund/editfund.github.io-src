@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 展示
+# 使用展示
 
 ### md.sk
 [![md.sk](./excalidraw-files/md.sk.excalidraw.svg)](https://excalidraw.com/#json=6h6gPEGFIZIE5MUP41C3D,DEHsCtGpoEXSuFiarERw-Q)
