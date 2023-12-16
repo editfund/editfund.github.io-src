@@ -10,15 +10,6 @@ sidebar_position: 1
 - 使用本程序，可以一键输入“预先设置的一段话”
 - 本程序的按键可以鼠标单击，如果是触摸屏，也支持手指
 
-### md.sk设计草图
-[![md.sk](./excalidraw-files/md.sk.excalidraw.svg)](https://excalidraw.com/#json=6h6gPEGFIZIE5MUP41C3D,DEHsCtGpoEXSuFiarERw-Q)
-
-### emoji.sk设计草图
-[![emoji.sk](./excalidraw-files/emoji.sk.excalidraw.svg)](https://excalidraw.com/#json=VlQZHGOqcy8-_aVmzjLXC,Zeg0jPy_YqGQjd7ue2voFg)
-
-### excalidraw.sk设计草图
-[![emoji.sk](./excalidraw-files/excalidraw.sk.excalidraw.svg)](https://excalidraw.com/#json=P0DWonck0X5yDfqu0iZ2Z,HZjgDee0yr1ax0oL-F2T1g)
-
 ### 评语
 
 1. 用户可以自由调整按键位置。独一无二，市场上没有同类产品。
