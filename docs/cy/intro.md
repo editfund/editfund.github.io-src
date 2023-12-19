@@ -10,12 +10,6 @@ sidebar_position: 1
 - 按图索骥。
 - 基于图论的计算，新节点由 `已有节点` 与人工智能生成。
 
-### 展览
-
-[食物链](https://edit.fund/html-cy/breadthfirst/index.html)
-
-[气泡集](https://edit.fund/html-cy/cytoscape-bubblesets/index.html)
-
 ### 用途
 
 - 知识管理系统、笔记系统
