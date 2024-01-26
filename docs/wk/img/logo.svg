@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg822"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="keyboard-wifi--red.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs816" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.833333"
+     inkscape:cx="20.299066"
+     inkscape:cy="15.028038"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.0625)">
+    <g
+       id="g176"
+       transform="matrix(0.01953125,0,0,0.01953125,10,307.59649)"
+       style="fill:#ff0000">
+      <path
+         class="st0"
+         d="m 0,180.934 64.007,63.995 c 105.847,-105.846 278.138,-105.846 383.997,0 L 512,180.934 C 370.809,39.768 141.178,39.768 0,180.934 Z"
+         id="path170"
+         style="fill:#ff0000" />
+      <path
+         class="st0"
+         d="m 95.998,276.947 63.996,63.996 c 52.93,-52.93 139.069,-52.93 191.999,0 L 416,276.947 c -88.249,-88.262 -231.738,-88.262 -320.002,0 z"
+         id="path172"
+         style="fill:#ff0000" />
+      <path
+         class="st0"
+         d="m 191.998,372.934 64.008,64.007 63.996,-64.007 c -35.333,-35.32 -92.684,-35.32 -128.004,0 z"
+         id="path174"
+         style="fill:#ff0000" />
+    </g>
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6,293.0625 c -1.108,0 -2,0.892 -2,2 v 11 c 0,1.108 0.892,2 2,2 h 18 c 1.108,0 2,-0.892 2,-2 v -11 c 0,-1.108 -0.892,-2 -2,-2 z m 2,3 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -12,3 h 2 v 2 H 8 Z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -10,4 h 10 v 2 H 10 Z"
+       id="rect923"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

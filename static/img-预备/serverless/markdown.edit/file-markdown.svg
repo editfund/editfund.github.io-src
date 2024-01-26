@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="file-markdown.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.140625"
+     inkscape:cx="64.081425"
+     inkscape:cy="37.94402"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Markdown icon</title>
+  <desc
+     id="desc4">This is shape (source) for Clarity vector icon theme for gtk</desc>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Markdown icon</dc:title>
+        <dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2010</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 4.300611,0 C 3.576519,0 3,0.583628 3,1.307718 V 22.692282 C 3,23.416371 3.576519,24 4.300611,24 h 15.877401 c 0.724089,0 1.300611,-0.583629 1.300611,-1.307718 V 6.623876 h -4.78312 c -0.979336,0 -1.833648,-0.71438 -1.833648,-1.663076 V 0 Z m 11.47096,0 v 4.9608 c 0,0.389841 0.371158,0.753359 0.923932,0.753359 h 4.78312 z m -7.87829,12.077735 1.55869,1.824764 1.559134,-1.824764 1.948251,0.03776 v 5.922043 H 11.011105 V 15.057416 L 9.459522,16.98701 v 0.01866 l -0.0075,-0.0089 -0.0071,0.0089 V 16.98701 L 7.893338,15.057416 v 2.980122 H 5.94503 v -5.922046 z m 7.016547,0 h 2.002887 v 3.052082 h 1.620877 l -2.622543,3.484731 -2.622099,-3.484731 h 1.620878 z"
+     id="path8"
+     style="stroke-width:0.999999" />
+</svg>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="120"
+   height="40"
+   viewBox="-0.5 -0.5 120 40"
+   id="svg30"
+   sodipodi:docname="新空白文件.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="12.785124"
+     inkscape:cx="60.5"
+     inkscape:cy="20.492566"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20" />
+  <defs
+     id="defs2" />
+  <g
+     id="g20">
+    <rect
+       x="-0.5"
+       y="-0.5"
+       width="80"
+       height="40"
+       fill="#e51400"
+       stroke="none"
+       pointer-events="all"
+       id="rect4" />
+    <g
+       transform="translate(-0.17160229,-0.2738062)"
+       id="g10">
+      <switch
+         id="switch8"
+         transform="translate(-0.23464771,7.0394312)">
+        <foreignObject
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 20px; margin-left: 1px;">
+            <xhtml:div
+               data-drawio-colors="color: #ffffff; "
+               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                <xhtml:font
+                   style="font-size: 30px">
+                  <xhtml:b>math</xhtml:b>
+                </xhtml:font>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="24"
+           fill="#ffffff"
+           font-family="Helvetica"
+           font-size="12px"
+           text-anchor="middle"
+           id="text6"
+           style="font-size:32px"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan2354">math</tspan></text>
+      </switch>
+    </g>
+    <rect
+       x="79.5"
+       y="-0.5"
+       width="40"
+       height="40"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect12" />
+    <g
+       transform="translate(-8.2905273,-1.9194336)"
+       id="g18">
+      <switch
+         id="switch16">
+        <foreignObject
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           style="overflow: visible; text-align: left;">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 20px; margin-left: 81px;">
+            <xhtml:div
+               data-drawio-colors="color: rgb(0, 0, 0); "
+               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <xhtml:div
+                 style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">js</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="100"
+           y="29"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="30px"
+           text-anchor="middle"
+           id="text14">js</text>
+      </switch>
+    </g>
+  </g>
+  <switch
+     id="switch28">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g22" />
+    <a
+       transform="translate(0,-5)"
+       xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+       target="_blank"
+       id="a26">
+      <text
+         text-anchor="middle"
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text24">Text is not SVG - cannot display</text>
+    </a>
+  </switch>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="paste-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.99"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 3,21 H 8 V 20 H 4 V 4 H 6 V 6 H 16 V 4 h 2 v 3 h 0.4 c 0.218953,0.0052 0.429987,0.08293 0.6,0.221 V 3 H 16 V 2 H 13 C 13,-0.66666551 9,-0.66666551 9,2 H 6 V 3 H 3 Z M 7,3 h 3 V 1.615 C 9.9999996,1.275735 10.274735,1.0005517 10.614,1 h 0.771 C 11.724655,1 12,1.2753449 12,1.615 V 3 h 3 V 5 H 7 Z m 10,10 h 4 v 0 z M 9,8 V 24 H 22 V 11.6 L 18.4,8 Z M 21,23 H 10 V 9 h 7 v 4 h 4 z M 21,12 H 18 V 9 h 0.31 L 21,11.69 Z m -4,1 h 4 v 0 0 z m 0,0 h 4 v 0 z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccccccccccccccccccscssccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     fill="none"
+     d="M0 0h24v24H0z"
+     id="path4" />
+  <g
+     id="g286"
+     transform="matrix(0.91890388,0,0,0.91890388,4.4541624,5.7084931)">
+    <circle
+       class="cls-2"
+       cx="12"
+       cy="16.77"
+       r="0.94999999"
+       id="circle20"
+       style="fill:#020202" />
+    <path
+       class="cls-1"
+       d="m 9,14.75 a 4.2,4.2 0 0 1 5.94,0"
+       id="path22"
+       style="fill:none;stroke:#020202;stroke-width:1.91px;stroke-miterlimit:10" />
+    <path
+       class="cls-1"
+       d="m 6.8,12.53 a 7.34,7.34 0 0 1 10.4,0"
+       id="path24"
+       style="fill:none;stroke:#020202;stroke-width:1.91px;stroke-miterlimit:10" />
+  </g>
+</svg>

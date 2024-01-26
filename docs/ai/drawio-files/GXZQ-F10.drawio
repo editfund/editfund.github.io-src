@@ -1,0 +1,269 @@
+<mxfile host="Electron" modified="2023-11-28T22:13:52.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="jJj95BoVoTsryvOV895C" version="22.1.2" type="device">
+  <diagram id="1" name="Page-1">
+    <mxGraphModel dx="780" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="640" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Row1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row1Col1" value="股东名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row1" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row1Col2" value="持股数量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row1" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row1Col3" value="持股比例" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row1" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row1Col4" value="较上期变动" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row1" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="40" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row2Col1" value="深圳市投资控股有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row2" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row2Col2" value="32.23亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row2" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row2Col3" value="33.53%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row2" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row2Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row2" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="80" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row3Col1" value="华润深国投信托有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row3" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row3Col2" value="21.37亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row3" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row3Col3" value="22.23%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row3" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row3Col4" value="+0.02%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row3" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="120" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row4Col1" value="云南合和(集团)股份有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row4" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row4Col2" value="16.12亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row4" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row4Col3" value="16.77%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row4" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row4Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row4" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="160" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row5Col1" value="全国社会保障基金理事会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row5" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row5Col2" value="4.57亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row5" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row5Col3" value="4.75%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row5" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row5Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row5" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="200" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row6Col1" value="北京城建投资发展股份有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row6" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row6Col2" value="2.83亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row6" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row6Col3" value="2.94%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row6" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row6Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row6" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="240" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row7Col1" value="一汽股权投资(天津)有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row7" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row7Col2" value="2.57亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row7" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row7Col3" value="2.67%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row7" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row7Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row7" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="280" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row8Col1" value="香港中央结算有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row8" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row8Col2" value="9066.86万" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row8" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row8Col3" value="0.94%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row8" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row8Col4" value="+2.89%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row8" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="320" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row9Col1" value="中国证券金融股份有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row9" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row9Col2" value="7508.64万" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row9" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row9Col3" value="0.78%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row9" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row9Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row9" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="360" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Row10Col1" value="中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row10" vertex="1">
+          <mxGeometry width="160" height="50" as="geometry">
+            <mxRectangle width="160" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row10Col2" value="5998.31万" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row10" vertex="1">
+          <mxGeometry x="160" width="160" height="50" as="geometry">
+            <mxRectangle width="160" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row10Col3" value="0.62%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row10" vertex="1">
+          <mxGeometry x="320" width="160" height="50" as="geometry">
+            <mxRectangle width="160" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row10Col4" value="+4.03%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row10" vertex="1">
+          <mxGeometry x="480" width="160" height="50" as="geometry">
+            <mxRectangle width="160" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="410" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Row11Col1" value="中央汇金资产管理有限责任公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row11" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row11Col2" value="4842.95万" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row11" vertex="1">
+          <mxGeometry x="160" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row11Col3" value="0.50%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row11" vertex="1">
+          <mxGeometry x="320" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Row11Col4" value="不变" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Row11" vertex="1">
+          <mxGeometry x="480" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obphahldDxdMtOx9ntjl-2" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;国信证券&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="120" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

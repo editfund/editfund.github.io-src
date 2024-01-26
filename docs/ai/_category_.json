@@ -1,0 +1,8 @@
+{
+  "label": "产品 - AI(云服务)",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "用AI帮您做些事情。帮您生成源代码。帮您生成drawio图形。帮您生成excalidraw图形"
+  }
+}
