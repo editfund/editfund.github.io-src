@@ -10,11 +10,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 // process undefined as docusaurus doesn't expose env variables by default
 //process.env.IS_PREACT = "false";
 
-// If you are using dotenv (https://www.npmjs.com/package/dotenv)
-import 'dotenv/config';
-let process= {env:{IS_PREACT:false}};
-console.log(process.env.IS_PREACT) ;
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Edit.Fund',
