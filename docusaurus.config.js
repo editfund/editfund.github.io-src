@@ -191,6 +191,10 @@ const config = {
                 to: '/cy',
               },
               {
+                label: '网站地图',
+                to: '/html-cy/wasm',
+              },
+              {
                 label: '视频',
                 to: '/video',
               }

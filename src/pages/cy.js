@@ -1,6 +1,3 @@
-import React from 'react';
-import Layout from '@theme/Layout';
-
 import * as React from 'react';
 import cytoscape from 'cytoscape';
 import { useState, useEffect } from 'react';

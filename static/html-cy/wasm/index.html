@@ -1,0 +1,92 @@
+<!DOCTYPE>
+
+<html>
+
+<head>
+	<title>cytoscape-popper.js demo</title>
+	<link rel="icon" type="image/svg+xml" href="./logo.svg" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+	<style>
+		body {
+			font-family: helvetica neue, helvetica, liberation sans, arial, sans-serif;
+			font-size: 14px
+		}
+
+		#cy {
+			position: absolute;
+			left: 0;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			z-index: 1;
+		}
+	</style>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			//📌wasm里提供的数据、函数放到此处会出错
+			console.log("📌2=执行");
+		});
+	</script>
+</head>
+
+<body>
+	<div id="cy"></div>
+	<script src="wasm_exec.js"></script>
+	<script src="https://cdn-cytoscape.deno.dev/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+</body>
+
+<script>
+	var elements1_js = "";
+	var elements2_js = "";
+	const go = new Go();
+	WebAssembly.instantiateStreaming(fetch("main.wasm"), go.importObject).then((result) => {
+		go.run(result.instance);
+		// wasm 定义的 formatJSON函数， 似乎只有放在这个位置，才不出错
+		console.log(formatJSON('{"website":"golangbot.com", "tutorials": {"string":"https://golangbot.com/strings/"}}'));
+
+		//📌 尝试由wasm提供数据
+		//console.log(elements1);
+		elements1_js = elements1;
+		elements2_js = elements2;
+		console.log(elements2);
+		//有一个wasm 与 DOMContentLoaded 执行次序的问题
+		console.log("elements1_js:" + elements1_js);
+
+		var cy = window.cy = cytoscape({
+			container: document.getElementById('cy'),
+
+			style: [
+				{
+					selector: 'node',
+					style: {
+						'content': 'data(id)'
+					}
+				},
+
+				{
+					selector: 'edge',
+					style: {
+						'curve-style': 'bezier',
+						'target-arrow-shape': 'triangle'
+					}
+				}
+			],
+
+			elements: JSON.parse(elements2_js),
+
+			layout: {
+				name: 'grid'
+			}
+		});
+
+		document.addEventListener('DOMContentLoaded', function () {
+			//📌wasm里提供的数据、函数放到此处会出错
+			console.log("📌1=没有执行");
+		});
+
+	});
+</script>
+</html>
