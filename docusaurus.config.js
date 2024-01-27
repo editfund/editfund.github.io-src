@@ -187,6 +187,10 @@ const config = {
                 to: '/blog',
               },
               {
+                label: '网站地图',
+                to: '/cy',
+              },
+              {
                 label: '视频',
                 to: '/video',
               }
