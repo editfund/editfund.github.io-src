@@ -541,19 +541,6 @@ import { useState, useEffect } from 'react';
 	}
 })();
 
-WebAssembly.instantiateStreaming(fetch("/wasm/main.wasm"), go.importObject).then((result) => {
-  go.run(result.instance);
-  // wasm 定义的 formatJSON函数， 似乎只有放在这个位置，才不出错
-  console.log(formatJSON('{"website":"golangbot.com", "tutorials": {"string":"https://golangbot.com/strings/"}}'));
-
-  //📌 尝试由wasm提供数据
-  //console.log(elements1);
-  elements1_js = elements1;
-  elements2_js = elements2;
-  console.log(elements2);
-  //有一个wasm 与 DOMContentLoaded 执行次序的问题
-  console.log("elements1_js:" + elements1_js);
-});
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
