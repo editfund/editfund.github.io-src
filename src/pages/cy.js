@@ -56,7 +56,7 @@ const CytoscapeMemo = React.memo((props) => {
     });
   });
   return (
-    <div style={{height: '300px',height: '300px',overflow: 'hidden'}} id="cy">
+    <div style={{height: '100vh',overflow: 'hidden'}} id="cy">
       {console.log("Parent render")}
     </div>
   );
