@@ -99,9 +99,9 @@ const config = {
     '@docusaurus/theme-live-codeblock',
   ],
   plugins: [
-    '@docusaurus/theme-live-codeblock',
     //['drawio', { lib: 'https://editfund-founder.github.io/drawio/src/main/webapp/js/viewer.min.js' }],
     ['drawio', { lib: 'https://cdn-drawio.deno.dev/drawio/viewer.min.js' }],
+    '@docusaurus/theme-live-codeblock',
   ],
 
   themeConfig:
