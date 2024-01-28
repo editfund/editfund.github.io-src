@@ -101,6 +101,7 @@ const config = {
   plugins: [
     //['drawio', { lib: 'https://editfund-founder.github.io/drawio/src/main/webapp/js/viewer.min.js' }],
     ['drawio', { lib: 'https://cdn-drawio.deno.dev/drawio/viewer.min.js' }],
+    ['@docusaurus/theme-live-codeblock'],
   ],
 
   themeConfig:
@@ -212,6 +213,13 @@ const config = {
           hideable: true,
         },
       },
+      liveCodeBlock: {
+      /**
+       * The position of the live playground, above or under the editor
+       * Possible values: "top" | "bottom"
+       */
+      playgroundPosition: 'bottom',
+    },
     }),
 };
 
