@@ -101,7 +101,6 @@ const config = {
   plugins: [
     //['drawio', { lib: 'https://editfund-founder.github.io/drawio/src/main/webapp/js/viewer.min.js' }],
     ['drawio', { lib: 'https://cdn-drawio.deno.dev/drawio/viewer.min.js' }],
-    '@docusaurus/theme-live-codeblock',
   ],
 
   themeConfig:
